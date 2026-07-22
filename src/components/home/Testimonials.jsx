@@ -1,4 +1,4 @@
-// ─── Testimonials.jsx ───────────────────────────────────────────
+
 import { useState, useEffect, useCallback } from 'react';
 import { ChevronLeft, ChevronRight, Star } from 'lucide-react';
 
