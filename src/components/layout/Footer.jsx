@@ -27,14 +27,14 @@ const Footer = () => {
         <div>
           <h4 className="text-white font-semibold mb-4">Connect</h4>
           <ul className="space-y-2 text-sm text-slate-400">
-            <li>contact@riolabz.com</li>
-            <li>+91 9746754664</li>
+            <li>contact@rio.com</li>
+            <li>+91 9746464646</li>
             <li>Kerala, India</li>
           </ul>
         </div>
       </div>
       <div className="border-t border-slate-800 py-6 text-center text-slate-500 text-sm">
-        © {new Date().getFullYear()} Riolabz Technologies. All rights reserved.
+        © {new Date().getFullYear()} Riolabz Tech. All rights reserved.
       </div>
     </footer>
   );
